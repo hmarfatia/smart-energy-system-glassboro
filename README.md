@@ -1,7 +1,7 @@
 # Smart Energy System for Glassboro, NJ
 
 ## Overview
-This project consists of designing a smart energy system for the town of Glassboro, NJ using IoT sensors and AWS cloud services to remotely monitor and optimize energy usage. Analysis of sector-based consumption rates identifed of high-demand areas where scalable microgrid solutions can be integrated to improve factors like efficiency and cost.
+This project consists of designing a smart energy system for the town of Glassboro, NJ using IoT sensors and AWS cloud services to remotely monitor and optimize energy usage. Analysis of sector-based consumption rates identifed high-demand areas where scalable microgrid solutions can be integrated to improve factors like efficiency and cost.
 
 ## Problem
 Modern cities struggle to implement an efficient grid infrastructure, leading to overwhelming demand and limited integration of renewable energy sources. The town of Glassboro is an example as similar challenges are faced across sectors like residential and commercial areas.
